@@ -1,5 +1,11 @@
-! Deruxe 1.0.0
+! Deruxe 1.0.1b
 ! uBlock Origin用
 
 ! MegaUp
 ##.metaRedirectWrapperTopAds
+
+! MSN
+##.consumption-page-banner-wrapper
+##.views-right-rail-top-display
+##.views-right-rail-bottom-display
+||example.com^$above-river-block
