@@ -1,0 +1,5 @@
+! Deruxe 1.0.0
+! uBlock Origin用
+
+! MegaUp
+##.metaRedirectWrapperTopAds
